@@ -1,0 +1,10 @@
+# Configurações e Chaves (SEGURANÇA)
+.env
+
+# Python (Arquivos temporários)
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+.venv/
